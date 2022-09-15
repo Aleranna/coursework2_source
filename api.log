@@ -1,0 +1,19 @@
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Запрошен пост по номеру 2
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2022 23:59:42] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:root:Запрошен пост по номеру 2
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2022 23:59:45] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:root:Запрошен пост по номеру 3
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2022 23:59:50] "GET /api/posts/3 HTTP/1.1" 200 -
+INFO:root:Запрошен список постов
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2022 00:00:59] "GET /api/posts HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Запрошен пост по номеру 5
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2022 00:02:51] "GET /api/posts/5 HTTP/1.1" 200 -
+INFO:root:Запрошен пост по номеру 4
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2022 00:05:24] "GET /api/posts/4 HTTP/1.1" 200 -
